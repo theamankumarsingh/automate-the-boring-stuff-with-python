@@ -1,0 +1,2 @@
+Make a block of code reusable.
+To implement abstraction.

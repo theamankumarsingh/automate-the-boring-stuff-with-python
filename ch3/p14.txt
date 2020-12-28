@@ -1,0 +1,2 @@
+Code that can cause error goes in try clause.
+Code that has to be executed when error happens goes in except clause.

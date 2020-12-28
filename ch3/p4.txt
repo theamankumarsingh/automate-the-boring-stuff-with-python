@@ -1,0 +1,2 @@
+A function consists of def statement.
+Function call is the call to the function where control of execution is transferred to function and after evaluation it returns back to main code with a return value.

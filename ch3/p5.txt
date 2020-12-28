@@ -1,0 +1,2 @@
+One global scope
+and some local scopes for function and labda expressions
