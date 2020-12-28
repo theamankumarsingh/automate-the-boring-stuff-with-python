@@ -1,0 +1,4 @@
+range(10) generates sequence 0,1,2,3,...,9
+range(0,10) generates sequence 0,1,2,3,.....,9
+rnage(0,10,1) generates sequence 0,1,2,3,......,9
+All 3 generate same sequence.

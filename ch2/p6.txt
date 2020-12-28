@@ -1,0 +1,2 @@
+== used to check for equality condition.
+= used to assign some value to a variable.

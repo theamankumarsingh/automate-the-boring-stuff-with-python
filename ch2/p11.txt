@@ -1,0 +1,2 @@
+break: stops an iteration
+continue: skips an iteration
