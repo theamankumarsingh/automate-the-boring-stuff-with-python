@@ -1,0 +1,1 @@
+The three data types are integers, float, and strings.

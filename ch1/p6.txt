@@ -1,0 +1,1 @@
+The bacon contains value 20 as the value given by bacon + 1 is not assigned back.

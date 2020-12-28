@@ -1,0 +1,2 @@
+Both expressions evaluate to 'spamspamspam'.
+(The * on strings concatenate that many times).

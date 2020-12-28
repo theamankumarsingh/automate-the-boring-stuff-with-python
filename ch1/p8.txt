@@ -1,0 +1,2 @@
+eggs is a valid name as it obeys all naming rules.
+100 is not a var name as it starts by a number.

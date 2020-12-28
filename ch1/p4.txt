@@ -1,0 +1,2 @@
+An expression is made up of values and operators.
+All expressions evaluate to some value.

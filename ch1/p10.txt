@@ -1,0 +1,3 @@
+The expression causes an error because 99 is an integer.
+Only strings can be concatenated to other strings.
+Fix: 'I have eaten '+str(99)+' burritos.'

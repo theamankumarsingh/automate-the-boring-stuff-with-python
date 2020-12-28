@@ -1,0 +1,2 @@
+An expression evaluates to some value.
+A statement does not evaluate (give) any value

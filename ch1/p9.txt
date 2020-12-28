@@ -1,0 +1,1 @@
+The int(), float(), and str() functions will evaluate to the integer, float, and string respectively.
