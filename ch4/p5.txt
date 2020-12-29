@@ -1,0 +1,1 @@
+spam[:2] evaluates to ['a','b']

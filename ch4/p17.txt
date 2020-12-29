@@ -1,0 +1,1 @@
+copy.copy() will do a copy of list while copy.deepcopy() will also copy inner lists

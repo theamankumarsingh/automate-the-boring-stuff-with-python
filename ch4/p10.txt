@@ -1,0 +1,2 @@
+append() appends at last
+inset() inserts at a given index
