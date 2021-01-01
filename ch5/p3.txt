@@ -1,0 +1,2 @@
+The items stored in a dictionary are unordered, while the items in a list
+are ordered.

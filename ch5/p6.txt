@@ -1,0 +1,3 @@
+'cat' in spam checks whether there is a 'cat' key in the dictionary, while
+'cat' in spam.values() checks whether there is a value 'cat' for one of
+the keys in spam.
