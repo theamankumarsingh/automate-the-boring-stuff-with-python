@@ -1,0 +1,1 @@
+Escape characters are characters in a string value that cannot be typed easily in the code.

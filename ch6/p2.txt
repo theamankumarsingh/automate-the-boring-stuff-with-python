@@ -1,0 +1,2 @@
+\n new line(line break)
+\t tab 

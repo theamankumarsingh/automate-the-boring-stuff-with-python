@@ -1,0 +1,2 @@
+ The lstrip() and rstrip() methods remove whitespace from the left and
+right ends of a string respectively.

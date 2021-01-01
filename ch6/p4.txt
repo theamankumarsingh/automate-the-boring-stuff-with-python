@@ -1,0 +1,1 @@
+Because we have used double quotes ("") to represent this string, so python recognizes that single quote (') is not the part of string syntax.

@@ -1,0 +1,1 @@
+Use triple quotes string (Multiline strings).
