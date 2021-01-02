@@ -1,0 +1,2 @@
+os.getcwd() returns current working directory.
+os.chdir() changes the current working directory.

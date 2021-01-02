@@ -1,0 +1,2 @@
+dir name: C:\bacon\eggs
+base name: spam.txt

@@ -1,0 +1,1 @@
+An existing file opened in write mode is erased and completely overwritten.

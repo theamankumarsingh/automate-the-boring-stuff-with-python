@@ -1,0 +1,4 @@
+The modes are:
+'r' for read mode
+'w' for write mode
+'a' for append mode

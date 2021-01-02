@@ -1,0 +1,1 @@
+The read() method returns the file’s entire contents as a single string value. The readlines() method returns a list of strings, where each string is a line from the file’s contents.
