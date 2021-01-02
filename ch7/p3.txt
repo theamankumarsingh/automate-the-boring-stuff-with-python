@@ -1,0 +1,1 @@
+The search() method returns the first occurence of the part of text that matches the regex.

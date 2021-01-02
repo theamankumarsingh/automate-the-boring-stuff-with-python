@@ -1,0 +1,1 @@
+The + matches one or more. The * matches zero or more.

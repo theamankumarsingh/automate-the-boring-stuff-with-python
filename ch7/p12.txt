@@ -1,0 +1,3 @@
+\d signify a single digit
+\s signify a space character
+\w signify a letter, number or underscore character

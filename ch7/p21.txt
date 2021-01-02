@@ -1,0 +1,1 @@
+regex string = '^([A-Z][a-z]*) Nakamoto$'

@@ -1,0 +1,1 @@
+pass re.I or re.IGNORECASE as second argument to re.compile() functions.

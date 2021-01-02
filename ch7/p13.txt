@@ -1,0 +1,3 @@
+\D signifies everything except digit
+\W signifies everything except letters, numbers or underscore characters
+\S signifies everything except whitespaces.

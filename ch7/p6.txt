@@ -1,0 +1,4 @@
+Escape it with a backslash
+\.
+\(
+\)

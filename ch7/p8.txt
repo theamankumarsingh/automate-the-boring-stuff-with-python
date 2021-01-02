@@ -1,0 +1,1 @@
+The | character signifies matching either, or between two groups.

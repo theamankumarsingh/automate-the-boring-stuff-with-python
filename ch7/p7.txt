@@ -1,0 +1,1 @@
+The findall() method returns a list of strings when there is no grouping in the regex, else it returns a list of tuples with items in tuples representing each group. of the match text(s)
