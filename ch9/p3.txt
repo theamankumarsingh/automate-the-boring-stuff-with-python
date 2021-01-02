@@ -1,0 +1,1 @@
+The send2trash functions will move a file or folder to the recycle bin, while shutil functions will permanently delete files and folders.

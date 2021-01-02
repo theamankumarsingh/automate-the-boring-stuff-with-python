@@ -1,0 +1,1 @@
+shutil.copy() copies a single file, while shutil.copytree() copies entile folder.
