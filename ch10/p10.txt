@@ -1,0 +1,1 @@
+After you click Go, the debugger will stop when it has reached the end of the program or a line with a breakpoint.

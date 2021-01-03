@@ -1,0 +1,1 @@
+assert spam>=10, 'spam must be greater than, equal to 10'

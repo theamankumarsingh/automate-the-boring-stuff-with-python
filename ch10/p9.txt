@@ -1,0 +1,3 @@
+The Step button will move the debugger into a function call.
+The Over button will quickly execute the function call without stepping into it.
+The Out button will quickly execute the rest of the code until it steps out of the function it currently is in.

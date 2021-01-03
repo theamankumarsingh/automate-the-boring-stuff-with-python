@@ -1,0 +1,1 @@
+asset eggs.lower()!=spam.lower(), 'Both strings are same'

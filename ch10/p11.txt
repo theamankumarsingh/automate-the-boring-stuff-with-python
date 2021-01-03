@@ -1,0 +1,1 @@
+A breakpoint is a setting on a line of code that causes the debugger to pause when the program execution reaches the line.
