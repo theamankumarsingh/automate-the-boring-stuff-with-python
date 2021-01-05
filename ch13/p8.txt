@@ -1,0 +1,1 @@
+A paragraph object contains praragraphs in the document, while runs object are contiguous groups of characters within a paragraph.

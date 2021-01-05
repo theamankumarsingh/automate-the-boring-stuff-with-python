@@ -1,0 +1,1 @@
+doc.paragraphs returns list of Paragraph objects.

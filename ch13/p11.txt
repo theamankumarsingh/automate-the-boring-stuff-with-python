@@ -1,0 +1,1 @@
+True always makes the Run object bolded and False makes it not bolded, no matter what the style’s bold setting is. None will make the Run object just use the style’s bold setting.

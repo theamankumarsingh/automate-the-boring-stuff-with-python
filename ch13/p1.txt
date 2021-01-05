@@ -1,0 +1,1 @@
+We pass a File object to the PyPDF2.PdfFileReader() function.

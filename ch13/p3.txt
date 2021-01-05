@@ -1,0 +1,1 @@
+Calling getPage(4) will return a Page object for page 5, since page 0 is the first page.

@@ -1,0 +1,1 @@
+Read-Binary mode for PdfFileReader() and Write-Binary mode for PdfFileWriter().
