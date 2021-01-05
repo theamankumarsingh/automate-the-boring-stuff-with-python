@@ -1,0 +1,1 @@
+openpyxl.cell.column_index_from_string('M')

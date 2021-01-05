@@ -1,0 +1,2 @@
+A formula is set the same was as a value.
+sheet['B9']='=SUM(B1:B8)'

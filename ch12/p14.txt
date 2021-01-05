@@ -1,0 +1,1 @@
+wb=openpyxl.load_workbook(file,data_only=True)

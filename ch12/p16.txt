@@ -1,0 +1,1 @@
+sheet.column_dimensions['C'].width=0

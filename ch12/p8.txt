@@ -1,0 +1,1 @@
+They return the highest column and row with values in the sheet, respectively, as integer values.

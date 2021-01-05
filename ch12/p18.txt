@@ -1,0 +1,1 @@
+Freeze panes are rows and columns that will always appear on the screen.
