@@ -1,0 +1,4 @@
+Response object.
+
+res=requests.get(link)
+s=res.text

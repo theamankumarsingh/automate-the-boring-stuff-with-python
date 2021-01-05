@@ -1,0 +1,1 @@
+We have click() for simulating mouse click and send_keys() for simulating keyboard keys.

@@ -1,0 +1,1 @@
+We would inspect element from the context menu.

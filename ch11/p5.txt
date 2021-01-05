@@ -1,0 +1,1 @@
+By opening a file in 'write binary' mode and the writing to the files.

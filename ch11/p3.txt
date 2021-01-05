@@ -1,0 +1,1 @@
+raise_for_status() checks if the download worked.

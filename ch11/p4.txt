@@ -1,0 +1,1 @@
+res.status_code returns the HTTPS status code of a Requests response

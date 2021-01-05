@@ -1,0 +1,2 @@
+find_element_* finds first instance of the element in the page
+find_elements_* finds all instances of the element in the page

@@ -1,0 +1,4 @@
+webbrowser: opens a browser to a specific page
+requests: downloads files and web pages from the internet
+Beautiful Soup: parse HTML documents
+selenium: control webbrowsers like firefox, simulate clicking, loading of pages, buttons etc
