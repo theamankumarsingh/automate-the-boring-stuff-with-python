@@ -1,0 +1,1 @@
+It needs to be opened in read mode for Reader Objects and write mode to Writer Objects

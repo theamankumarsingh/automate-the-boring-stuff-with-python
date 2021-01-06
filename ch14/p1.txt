@@ -1,0 +1,6 @@
+CSV files:
+Don't have types for their values- everything is a string.
+Don't have settings for font or color.
+Don't have multiple sheets.
+Can't specify cell width and heights.
+Can't have images or charts embedded in them.
