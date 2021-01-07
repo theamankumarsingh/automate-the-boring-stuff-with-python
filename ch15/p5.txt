@@ -1,0 +1,2 @@
+A datetime object represents a specific moment in time.
+A timedelta object represents a duration of time.

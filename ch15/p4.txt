@@ -1,0 +1,1 @@
+It returns rounded off value (to the nearest integer or decimal, as specified).
